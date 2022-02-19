@@ -1,0 +1,1 @@
+var nome = prompt("Qual o seu nome?"); // * O comando "prompt" cria uma janela na tela para o usuário digitar algo que será armazenado na variável "nome".

@@ -1,0 +1,29 @@
+#n1 {
+    width: 12.5rem;
+    height: 12.5rem;
+    border: 1px solid #000;
+    float: left;
+    margin-right: 0.625rem;
+    font-size: 6.25rem;
+    text-align: center;
+    line-height: 12.5rem;
+    background-color: #EEE;
+}
+
+#n2 {
+    width: 12.5rem;
+    height: 12.5rem;
+    line-height: 12.5rem;
+    border: 1px solid #000;
+    float: left;
+    text-align: center;
+    font-size: 6.25rem;
+    margin-right: 0.625rem;
+}
+
+button {
+    width: 25.625rem;
+    height: 2.5rem;
+    margin-top: 0.625rem;
+    font-size: 1.25rem;
+}
